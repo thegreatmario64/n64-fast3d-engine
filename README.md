@@ -1,6 +1,6 @@
-# Nintendo 64 Fast3D renderer
+# Nintendo 64 Fast3D(EX3) renderer
 
-Implementation of a Fast3D renderer for games built originally for the Nintendo 64 platform.
+Implementation of a Fast3D(EX3) renderer for games built originally for the Nintendo 64 platform.
 
 For rendering OpenGL, Direct3D 11 and Direct3D 12 are supported.
 
